@@ -1,0 +1,2 @@
+D:\Visual Studio stuff\2nd Semester\University Management System OOP Project\University Management System OOP Project\Debug\University Management System OOP Project.exe
+D:\Visual Studio stuff\2nd Semester\University Management System OOP Project\University Management System OOP Project\Debug\University Management System OOP Project.pdb

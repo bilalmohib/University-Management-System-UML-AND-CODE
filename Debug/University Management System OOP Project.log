@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Visual Studio stuff\2nd Semester\University Management System OOP Project\University Management System OOP Project\Source.cpp(89,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio stuff\2nd Semester\University Management System OOP Project\University Management System OOP Project\Source.cpp(134,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  University Management System OOP Project.vcxproj -> D:\Visual Studio stuff\2nd Semester\University Management System OOP Project\University Management System OOP Project\Debug\University Management System OOP Project.exe
